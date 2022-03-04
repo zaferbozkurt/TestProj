@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>207469122700-l6nm4a78obo15q6s73file8dhg1ojnl1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.207469122700-l6nm4a78obo15q6s73file8dhg1ojnl1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDHdE1AkLyZkQA22-JYZAr0SFoOHjwA0Do</string>
+	<key>GCM_SENDER_ID</key>
+	<string>207469122700</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>finance.integrated.platform.mobile.exatern</string>
+	<key>PROJECT_ID</key>
+	<string>ifhl-mobile</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ifhl-mobile.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:207469122700:ios:5def625df62446342f57a9</string>
+</dict>
+</plist>
